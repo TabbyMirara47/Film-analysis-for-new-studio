@@ -46,7 +46,8 @@ Audiences highly favor Documentary, Family, and Romance genres (9.7 avg. rating)
 Movies released between May and June make the most money on average, showing that these months are the best for releasing movies and earning high revenue. In contrast, movies released between August and September make the least money on average, making these months less successful for movie releases.
 ![image 4](https://github.com/user-attachments/assets/fea0f7b6-2732-42e9-b6be-e1848e21980a)
 
-
+### Conclusion
+In order to maximize profits, we recommend that our company begin producing comedy and drama films. Our new studio should also produce a combination of both genres. A release between May and July combined with effective marketing techniques will be successful when paired with one of the most lucrative genres. Genres like romance, family, and documentaries also have the highest ratings to our audience.
 
 
 
