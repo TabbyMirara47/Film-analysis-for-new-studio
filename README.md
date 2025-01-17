@@ -1,4 +1,5 @@
 # Film-analysis-for-new-studio
+
 ## Authors
 Calvince Kaunda 
 
@@ -7,6 +8,9 @@ Dennis Mwania
 Kavata Musyoka
 
 Tabby Mirara
+![image 7](https://github.com/user-attachments/assets/7a9151e4-bf0a-4aa8-9a51-37e2348f925b)
+
+
 ### Business Understanding
 
 Our company is looking to start a new movie studio. They are new to the industry and would like insights on the best way to enter this market and make films with  reliable and healthy returns. They would like 3 recommendations on how to approach the industry
@@ -50,5 +54,5 @@ Movies released between May and June make the most money on average, showing tha
 In order to maximize profits, we recommend that our company begin producing comedy and drama films. Our new studio should also produce a combination of both genres. A release between May and July combined with effective marketing techniques will be successful when paired with one of the most lucrative genres. Genres like romance, family, and documentaries also have the highest ratings to our audience.
 
 
-
+https://public.tableau.com/authoring/FilmAnalysisforNewStudio/Dashboard1#1
 
