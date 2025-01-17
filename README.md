@@ -53,6 +53,6 @@ Movies released between May and June make the most money on average, showing tha
 ### Conclusion
 In order to maximize profits, we recommend that our company begin producing comedy and drama films. Our new studio should also produce a combination of both genres. A release between May and July combined with effective marketing techniques will be successful when paired with one of the most lucrative genres. Genres like romance, family, and documentaries also have the highest ratings to our audience.
 
-
+### Interactive Dashboard:
 https://public.tableau.com/authoring/FilmAnalysisforNewStudio/Dashboard1#1
 
